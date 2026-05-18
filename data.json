@@ -1,0 +1,21 @@
+{
+  "inventory": [
+    {
+      "id": "PROD-A",
+      "name": "High-Volume Smartwatch",
+      "stock": 1200,
+      "dailyBurnRate": 150,
+      "nextShipmentDate": "2026-06-01",
+      "status": "In Stock"
+    },
+    {
+      "id": "PROD-B",
+      "name": "Wireless Earbuds",
+      "stock": 5000,
+      "dailyBurnRate": 200,
+      "nextShipmentDate": "2026-05-25",
+      "status": "In Stock"
+    }
+  ],
+  "logs": []
+}
